@@ -1,3 +1,0 @@
-
-PASS W3C WebSocket API - Create WebSocket - wsocket.url should be set correctly 
-

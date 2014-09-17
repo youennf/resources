@@ -1,2 +1,0 @@
-
-(WebProcess:6223): GLib-CRITICAL **: Source ID 2 was not found when attempting to remove it

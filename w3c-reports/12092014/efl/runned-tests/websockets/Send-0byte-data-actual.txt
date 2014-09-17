@@ -1,5 +1,0 @@
-
-PASS W3C WebSocket API - Send 0 byte data on a WebSocket - Connection should be opened 
-PASS W3C WebSocket API - Send 0 byte data on a WebSocket - Message should be received 
-PASS W3C WebSocket API - Send 0 byte data on a WebSocket - Connection should be closed 
-

@@ -1,3 +1,0 @@
-
-PASS Test Description: If the Event.bubbles attribute is set to false, the bubble phase shall be skipped. 
-

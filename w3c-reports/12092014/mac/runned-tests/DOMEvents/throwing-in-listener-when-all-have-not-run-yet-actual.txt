@@ -1,4 +1,0 @@
-CONSOLE MESSAGE: line 19: Error: Error from listener
-
-PASS Throwing in event listener 
-

@@ -1,4 +1,0 @@
-
-PASS HTMLDataListElement support 
-PASS HTMLDataListElement options item collection support 
-

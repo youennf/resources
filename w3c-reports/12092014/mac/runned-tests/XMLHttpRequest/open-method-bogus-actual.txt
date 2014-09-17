@@ -1,6 +1,0 @@
-
-PASS XMLHttpRequest: open() - bogus methods () 
-PASS XMLHttpRequest: open() - bogus methods (>) 
-PASS XMLHttpRequest: open() - bogus methods ( GET) 
-PASS XMLHttpRequest: open() - bogus methods (G T) 
-

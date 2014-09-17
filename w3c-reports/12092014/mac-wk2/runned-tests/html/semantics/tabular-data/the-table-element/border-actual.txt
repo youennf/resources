@@ -1,3 +1,0 @@
-
-PASS The border IDL attribute reflects the content attribute of the same name. 
-

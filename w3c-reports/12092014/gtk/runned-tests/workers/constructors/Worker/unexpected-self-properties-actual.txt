@@ -1,3 +1,0 @@
-
-PASS unexpected members/interface objects/constructors 
-

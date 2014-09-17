@@ -1,3 +1,0 @@
-
-PASS Test Description: Throw a SECURITY_ERR exception when origin of the worker script URL and origin URL are not same. 
-

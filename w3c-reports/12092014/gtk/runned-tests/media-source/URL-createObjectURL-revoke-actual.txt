@@ -1,3 +1,0 @@
-
-PASS Check revoking behavior of URL.revokeObjectURL(url). 
-

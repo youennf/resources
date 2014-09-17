@@ -1,3 +1,0 @@
-
-PASS Test Description: Dispatch an event in a DOM tree using the DOM event flow. 
-

@@ -1,6 +1,0 @@
-event_local_StorageEventInit
-
-
-PASS Web Storage 
-PASS storageeventinit test 
-

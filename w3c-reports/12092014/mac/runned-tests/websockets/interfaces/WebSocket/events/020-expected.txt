@@ -1,3 +1,0 @@
-CONSOLE MESSAGE: WebSocket network error: Proxy connection could not be established, unexpected response code
-
-Harness Error. harness_status.status = 2 , harness_status.message = null

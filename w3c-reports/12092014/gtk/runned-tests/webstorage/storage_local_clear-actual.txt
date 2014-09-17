@@ -1,5 +1,0 @@
-storage_local_clear
-
-
-PASS Web Storage 
-

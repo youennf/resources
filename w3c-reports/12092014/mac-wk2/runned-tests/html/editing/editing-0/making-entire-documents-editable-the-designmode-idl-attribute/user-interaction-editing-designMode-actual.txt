@@ -1,5 +1,0 @@
-
-PASS initial designMode attribute 
-PASS set designMode = "on" 
-PASS set designMode = "off" 
-

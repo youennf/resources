@@ -1,5 +1,0 @@
-storage_session_setItem
-
-
-PASS Web Storage 
-

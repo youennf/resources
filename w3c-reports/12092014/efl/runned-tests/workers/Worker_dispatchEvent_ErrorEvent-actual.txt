@@ -1,3 +1,0 @@
-CONSOLE MESSAGE: line 26: TypeError: undefined is not a function (evaluating 'evt.initErrorEvent')
-
-Harness Error. harness_status.status = 1 , harness_status.message = TypeError: undefined is not a function (evaluating 'evt.initErrorEvent')

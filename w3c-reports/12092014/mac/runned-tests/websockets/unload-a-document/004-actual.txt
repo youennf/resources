@@ -1,4 +1,0 @@
-
-
-TIMEOUT WebSockets: navigating nested browsing context with closed websocket Test timed out
-

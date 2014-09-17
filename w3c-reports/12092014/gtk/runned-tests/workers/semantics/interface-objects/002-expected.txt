@@ -1,3 +1,0 @@
-
-PASS unavailable interface objects in dedicated worker 
-

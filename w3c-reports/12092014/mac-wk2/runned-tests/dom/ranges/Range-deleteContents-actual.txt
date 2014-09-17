@@ -1,3 +1,0 @@
-CONSOLE MESSAGE: line 49: TypeError: undefined is not a function (evaluating 'iframe.contentWindow.setupRangeTests()')
-FAIL: Timed out waiting for notifyDone to be called
-

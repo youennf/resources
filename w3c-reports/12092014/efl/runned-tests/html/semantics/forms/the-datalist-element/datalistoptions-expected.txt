@@ -1,5 +1,0 @@
-Number:  
-
-PASS options label/value 
-PASS If an element has a datalist element ancestor, it is barred from constraint validation 
-

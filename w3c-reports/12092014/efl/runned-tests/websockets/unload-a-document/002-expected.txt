@@ -1,5 +1,0 @@
-Test requires popup blocker disabled
-
-
-TIMEOUT WebSockets: navigating top-level browsing context with closed websocket Test timed out
-
